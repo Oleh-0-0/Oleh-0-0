@@ -1,16 +1,29 @@
-## Hi there 👋
+Привіт! 👋 Я Олег
+Я студент спеціальності Інженерія програмного забезпечення.
 
-<!--
-**Oleh-0-0/Oleh-0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Про мене
+Я вивчаю програмування, архітектуру програмних систем та сучасні IT-технології.
+Цікавлюся розробкою ПЗ, вебтехнологіями та дизайн-системами.
 
-Here are some ideas to get you started:
+🛠️ Технології та інструменти
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ 
+Phython
+Java
+HTML / CSS
+Git / GitHub
+Cisco IOS CLI
+Figma
+
+📚 Зараз вивчаю
+
+Об'єктно-орієнтоване програмування
+Конструювання ПЗ
+Комп'ютерні мережі та адміністрування
+Вебтехнології
+
+🚀 Мої цілі
+Прагну поглиблювати свої технічні знання, здобувати практичний досвід у розробці та реалізовувати власні проєкти у сфері IT.
+
+📫 GitHub
+Тут я викладаю свої лабораторні роботи, навчальні завдання та власні проєкти.
